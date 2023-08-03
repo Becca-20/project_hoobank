@@ -10,8 +10,11 @@ const App = () => (
       </div>
     </div>
 
+    // HERO SECTION
     <div className={`bg-primary ${styles.flexStart}`}>
-
+      <div className={`${styles.boxWidth}`}>
+        Hero
+      </div>
     </div>
 
   </div>
